@@ -1,5 +1,18 @@
-<html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8">
+		<meta name="author" content="Jarjir_Donnerbauer">
+		<title>Bestellung_Balkan</title>
+	</head>
 
+	<body>
+		<h3>Geben Sie hier Ihre Zahl ein, die mit verschiedenen Zahlen multipilziert werden kann:</h3>
+		
+		<!-- Feste Zahl abfragen -->
+		<form name="eingabe" action="2026.10.06 AB_05_Zusatz_Textfeldausgabe.php" method="POST" accept-charset="UTF-8">
+			<label for="zahlhtmlid"> Zahl: </label>
+			<input type="text" id="zahlhtmlid" name="zahlhtml">
+		
 
 
 
